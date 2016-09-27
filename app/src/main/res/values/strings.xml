@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sesion8SQLite</string>
+    <string name="titulo">AGENDA</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">E-mail</string>
+    <string name="insertar">Insertar</string>
+    <string name="borrar">Borrar</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="buscar">Buscar</string>
+</resources>
